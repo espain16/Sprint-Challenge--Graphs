@@ -29,6 +29,7 @@ player = Player(world.starting_room)
 # traversal_path = ['n', 'n']
 traversal_path = []
 
+# Algorithm To Walk Through Maze
 
 
 # TRAVERSAL TEST
